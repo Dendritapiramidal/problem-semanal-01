@@ -1,2 +1,3 @@
 "#problematica semana 1" 
-"Este archivo fue modificado n una rama secundaria" 
+
+"Este archivo fue modificado en una rama secundaria" 
